@@ -2,7 +2,7 @@
   "name": "touch-fix",
   "description": "this module fixes some wired touch quirks of some tablet/phone devices",
   "main": "src/index.js",
-  "version": "0.0.0-dev",
+  "version": "0.0.1",
   "scripts": {
     "test": "",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
